@@ -1,0 +1,71 @@
+body {
+        color: white;
+        background-color: #000000;
+        background-position: center;
+        background-attachment: fixed;
+        margin: 3px;
+        text-align: center;
+        font-family: sans-serif;
+        border-radius: 30px;
+        border-color: #d3d3d3;
+        border-width: 4px;
+        border-style: solid;
+    }
+    /* img {
+        width: 35px;
+        height: 30px;
+        border-radius: 30px;
+        border-color: rgb(255, 255, 255);
+        border-width: 4px;
+        border-style: solid;
+        display: flex;
+        justify-content:center;
+        } */
+   
+    a {
+        color: rgb(242, 242, 242);
+        background-color: rgb(182, 136, 136);
+        border-radius: 10px;
+        border-color: #d3d3d3;
+        border-width: 4px;
+        border-style: solid;
+        text-decoration: none;
+    }
+    #container {
+        border-radius: 40px;
+        background-color: #1a583b;
+        border-radius: 20px;
+        width: 90pc;
+        margin: 2%;
+         }
+    .leal {
+        border-radius: 20px;
+        border-style: initial;
+        border-width: 20pc;
+        border: color #4f4f4f;
+        width: 400px;
+    }
+
+    #master{
+      display: flex;
+      justify-content: space-around;
+    }
+    #suculentas{
+      justify-content: center;
+      text-align: center;
+      display: block;
+    }
+  
+    #gulosas{
+      justify-content: center;
+      text-align: center;
+      width: 300px;
+      height: 300px;
+     
+    }
+
+    #surdas{
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+    }
